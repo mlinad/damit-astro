@@ -1,0 +1,22 @@
+{
+  "name": "Damit d.o.o. | CNC obdelava kovin, rezkanje in struženje",
+  "short_name": "Damit d.o.o.",
+  "icons": [
+    {
+      "src": "/other/favicon-192px.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/other/favicon-512px.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "description": "CNC rezkanje in struženje kovin, plastike ter drugih materialov (vitroplast, pertinaks). Prototipi in maloserijska proizvodnja. Pošljite povpraševanje!",
+  "orientation": "portrait"
+}
